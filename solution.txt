@@ -1,0 +1,5 @@
+//commands
+less hint1
+cd mystery
+head -n 20 people
+less hint2
